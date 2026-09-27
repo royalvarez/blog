@@ -9,6 +9,18 @@ intro = true
 headline = "Welcome to my website"
 description = "A blog exploring all things programming"
 
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 2
+
+
 github = "https://github.com/royalvarez"
 email = "hello@royalvarez.dev"
 
