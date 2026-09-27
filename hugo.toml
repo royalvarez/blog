@@ -1,0 +1,17 @@
+baseURL = 'https://royalvarez.dev/'
+languageCode = 'en-us'
+title = 'Roy Codes'
+theme = "ghostwriter"
+
+[params]
+mainSections = ["post"]
+intro = true
+headline = "Welcome to my website"
+description = "A blog exploring all things programming"
+
+github = "https://github.com/royalvarez"
+email = "hello@royalvarez.dev"
+
+opengraph = true
+
+dateFormat = "Thursday, September 24, 2026"
