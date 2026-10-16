@@ -2,6 +2,7 @@
 title = 'Hello world!: An introduction'
 date = 2026-10-15T01:18:56-05:00
 author = 'Roy Alvarez'
+description = 'A brief self introduction'
 draft = false
 +++
 
