@@ -183,7 +183,7 @@ The internet speed is dependent on both bandwidth and latency.
 Computers store data in packets before sending information over a network. Each request containing a packet can only be sent once the previous request was recieved.
 Despite a computer having a high bandwidth, the speed of sending and recieving data is still dependent on latency.
 
-It is common for your Internet Server Provider (ISP for short) to give a higher download speed than upload speed, as the nature of most users are not uploading data all the time.
+It is common for your Internet Service Provider (ISP for short) to give a higher download speed than upload speed, as the nature of most users are not uploading data all the time.
 
 ## Summary
 Computer networks are connected by various  cables. Every computer in the network follows some agreed upon standard so that data can be exchanged.
